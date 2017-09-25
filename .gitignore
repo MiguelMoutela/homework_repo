@@ -1,1 +1,6 @@
+#Could also ignore file types with *.extension
+#or a whole directory plus its contents
+#with directory_name/*. + */directory_name/*.
+
+
 not_relevant_to_project.txt
